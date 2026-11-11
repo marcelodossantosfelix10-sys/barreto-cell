@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Barreto Cell - Gestão & Orçamentos",
+  "short_name": "Barreto Cell",
+  "description": "Gestão de lucro, despesas, ordens de serviço e orçamentos em PDF com envio para WhatsApp para assistência técnica de celulares.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/images/barreto_cell_logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/barreto_cell_logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/barreto_cell_logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
+  ]
+}

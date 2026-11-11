@@ -1,0 +1,6 @@
+{
+  "name": "Barreto Cell - Gestão de Lucro, Despesas e Orçamentos",
+  "description": "Sistema completo de gestão financeira, ordens de serviço, orçamentos em PDF e envio via WhatsApp para assistência técnica de celulares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
